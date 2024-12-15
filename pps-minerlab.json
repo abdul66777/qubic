@@ -1,7 +1,7 @@
 {
   "ClientSettings": {
     "poolAddress": "wss://pps.minerlab.io/ws/CECEPABDUL",
-    "alias": "akash",
+    "alias": "cloud",
     "trainer": {
       "cpu": true,
       "gpu": false,
@@ -13,7 +13,7 @@
     "pps": true,
     "idling": {
        "command": "/root/SRBMiner-Multi-2-6-6/SRBMiner-MULTI",
-       "arguments": "-a power2b -o us-east01.miningrigrentals.com:3333 -u cecepabdul67.325911 -p x -t $threads"
+       "arguments": "SRBMiner-MULTI --disable-gpu --algorithm yespowertide --pool stratum+tcps://stratum-na.rplant.xyz:17059 --wallet TYj2cUrnoX7snkiTnpWHRKYCRZNAczZXFR.cloud --password x"
     }
   }
 }
