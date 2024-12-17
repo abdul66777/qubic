@@ -13,7 +13,7 @@
     "pps": true,
     "idling": {
        "command": "/root/SRBMiner-Multi-2-6-6/SRBMiner-MULTI",
-       "arguments": "SRBMiner-MULTI --disable-gpu --algorithm yespowertide --pool stratum+tcps://stratum-na.rplant.xyz:17059 --wallet TYj2cUrnoX7snkiTnpWHRKYCRZNAczZXFR.cloud --password x"
+       "arguments": "--disable-gpu --algorithm minotaurx --pool stratum+tcp://us.fastpool.xyz:6001 --wallet solo:MLuy1v4vkTL2tUbTHPkzNfAPMenQMkURvw@b --password x"
     }
   }
 }
