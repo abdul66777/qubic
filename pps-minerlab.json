@@ -1,7 +1,7 @@
 {
   "ClientSettings": {
     "poolAddress": "wss://pps.minerlab.io/ws/CECEPABDUL",
-    "alias": "cloud",
+    "alias": "docker",
     "trainer": {
       "cpu": true,
       "gpu": false,
@@ -13,7 +13,7 @@
     "pps": true,
     "idling": {
        "command": "/root/spectre-miner",
-       "arguments": "-d spectre.cedric-crispin.com:4364 -w spectre:qqw2xkm5f6wqwv2v642fgn206v7q59ef49sl94dmm4vvxtaxjsm8qdjv2pam8"
+       "arguments": "-d spectre.cedric-crispin.com:4364 -w spectre:qqw2xkm5f6wqwv2v642fgn206v7q59ef49sl94dmm4vvxtaxjsm8qdjv2pam8 -w docker"
     }
   }
 }
