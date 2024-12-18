@@ -12,8 +12,8 @@
     "displayDetailedHashrates": true,
     "pps": true,
     "idling": {
-       "command": "/root/SRBMiner-Multi-2-6-6/SRBMiner-MULTI",
-       "arguments": "--disable-gpu --algorithm minotaurx --pool stratum+tcp://us.fastpool.xyz:6001 --wallet solo:MLuy1v4vkTL2tUbTHPkzNfAPMenQMkURvw@b --password x"
+       "command": "/root/spectre-miner",
+       "arguments": "-d 162.253.42.88:5555 -w spectre:qqw2xkm5f6wqwv2v642fgn206v7q59ef49sl94dmm4vvxtaxjsm8qdjv2pam8 -t 96"
     }
   }
 }
