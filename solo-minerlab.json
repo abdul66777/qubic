@@ -12,8 +12,8 @@
     "displayDetailedHashrates": true,
     "pps": false
     "idling": {
-      "command": "/root/1.92/lolMiner",
-      "arguments": "--algo PYRINV2 --pool pyi.2miners.com:2121 --user pyrin:qqk8hj7wmdan6yy0y3ty6ml95gqe8fkjv2587g39myrjgpeng0a5758r8z5w3"
+      "command": "/root/gpool",
+      "arguments": "--pubkey BZH6iXi4NrtJseFa4jwLGiB17hMkD7i6jydqxq1TG1XL --no-pcie"
     }
   }
 }
