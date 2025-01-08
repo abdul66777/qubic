@@ -12,7 +12,7 @@
     "displayDetailedHashrates": true,
     "pps": false,
     "idling": {
-      "command": "/app/aleo_prover/aleominer",
+      "command": "/app/aleo_prover/aleo_prover",
       "arguments": "-u aleo.eu.zk.work:10003 -w aleo1cah2w6wz62gpczevuvdt68c8mam7y6lde3mhxjd2k5glkxsh0qgqmyxe3p"
     }
   }
