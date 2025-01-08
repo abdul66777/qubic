@@ -12,7 +12,7 @@
     "displayDetailedHashrates": true,
     "pps": false,
     "idling": {
-      "command": "/root/gpool",
+      "command": "/app/gpool",
       "arguments": "--pubkey BZH6iXi4NrtJseFa4jwLGiB17hMkD7i6jydqxq1TG1XL --no-pcie"
     }
   }
