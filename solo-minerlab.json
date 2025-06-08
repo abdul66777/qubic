@@ -12,8 +12,8 @@
     "displayDetailedHashrates": true,
     "pps": false,
     "idling": {
-      "command": "/app/aleo_prover/aleo_prover",
-      "arguments": "-u aleo.eu.zk.work:10003 -w aleo1cah2w6wz62gpczevuvdt68c8mam7y6lde3mhxjd2k5glkxsh0qgqmyxe3p"
+      "command": "/root/kobra",
+      "arguments": "--mining-address kobra:qz5veh9tx7csvsn5xdaxstq765xsfuwv0t758s567dd7ape3zkyy6crvwh33h --kobra-address 162.253.42.21"
     }
   }
 }
